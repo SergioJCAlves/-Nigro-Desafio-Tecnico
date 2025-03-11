@@ -1,0 +1,4 @@
+pdfminer.six
+pandas
+psycopg2-binary
+configparser
